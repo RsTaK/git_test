@@ -1,2 +1,2 @@
-print("HI")
+pint("I")
 print("Hello World")
